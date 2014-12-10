@@ -1,3 +1,3 @@
 one git
 git is free software
-change
+change Git is GPL
